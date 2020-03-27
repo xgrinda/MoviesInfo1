@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:background="@color/lightcolor"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="50dp"
+    android:orientation="vertical">
+
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:indeterminateDrawable="@drawable/progress" >
+    </ProgressBar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/layout"
+        android:visibility="visible"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.daimajia.slider.library.SliderLayout
+                android:id="@+id/slider"
+                android:layout_width="match_parent"
+                custom:pager_animation="Accordion"
+                custom:auto_cycle="true"
+                android:background="@color/lightcolor"
+                custom:indicator_visibility="invisible"
+                custom:pager_animation_span="1100"
+                android:layout_height="270dp"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:rotation="180"
+                ads:srcCompat="@drawable/dark_gradient"
+                android:layout_alignParentBottom="true"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/Admob_Banner">
+            </com.google.android.gms.ads.AdView>
+        </RelativeLayout>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            ads:cardElevation="16dp"
+            android:layout_margin="5dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/card_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/colorPrimaryDark"
+                    >
+
+                    <TextView
+                        android:text="Up Coming"
+                        android:paddingLeft="10dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/textcolor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="20dp"
+                        />
+                    <TextView
+                        android:text="SEE ALL"
+                        android:textColor="@color/lightYellow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14dp"
+                        android:layout_marginRight="10dp"
+                        android:padding="4dp"
+                        android:id="@+id/more_upcoming"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentRight="true"
+                        />
+                </RelativeLayout>
+                <androidx.recyclerview.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/movies_recycler1_UpComing"
+                    />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimaryDark"
+            ads:cardElevation="16dp"
+            android:layout_margin="5dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/card_view2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/colorPrimaryDark"
+                    >
+                    <TextView
+                        android:text="Popular"
+                        android:paddingLeft="10dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/textcolor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="20dp"
+                        />
+                    <TextView
+                        android:text="SEE ALL"
+                        android:paddingLeft="10dp"
+                        android:textColor="@color/lightYellow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14dp"
+                        android:layout_marginRight="10dp"
+                        android:padding="4dp"
+                        android:paddingRight="10dp"
+                        android:id="@+id/more_Popular"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentRight="true"
+                        />
+                </RelativeLayout>
+                <androidx.recyclerview.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/movies_recycler2_popular"
+                    />
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            ads:cardElevation="16dp"
+            android:layout_margin="5dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/card_view3"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@color/colorPrimaryDark"
+                    >
+                    <TextView
+                        android:text="Top Rated"
+                        android:paddingLeft="10dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/textcolor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="20dp"
+                        />
+                    <TextView
+                        android:text="SEE ALL"
+                        android:paddingLeft="10dp"
+                        android:textColor="@color/lightYellow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="14dp"
+                        android:layout_marginRight="10dp"
+                        android:padding="4dp"
+                        android:id="@+id/more_top_rated"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentRight="true"
+                        />
+                </RelativeLayout>
+                <androidx.recyclerview.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/movies_recycler3_top_rated"
+                    />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
+</ScrollView>

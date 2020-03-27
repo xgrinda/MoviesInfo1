@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/movies_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="72dp"
+    android:background="@color/lightcolor"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+<ImageView
+    android:layout_width="20dp"
+    android:layout_height="20dp"
+    android:layout_margin="7dp"
+    app:srcCompat="@drawable/if_tv"
+    android:visibility="gone"
+    android:id="@+id/tv"
+    android:layout_alignParentRight="true"
+
+    />
+        <androidx.cardview.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card_view55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            card_view:cardCornerRadius="5dp">
+
+
+
+
+                <ImageView
+                    android:layout_width="130dp"
+                    android:layout_height="90dp"
+                    android:id="@+id/thumbnail"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:background="@color/colorPrimary"
+                    android:scaleY="1"
+                    />
+
+                <ImageView
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:rotation="180"
+                    app:srcCompat="@drawable/dark_gradient"
+                    android:layout_gravity="bottom"
+                    />
+
+            <ProgressBar
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:id="@+id/progresssbar_watch_eposides"
+                android:visibility="gone"
+                style="?android:attr/progressBarStyleLarge"
+                android:indeterminateDrawable="@drawable/progress"
+                />
+
+        </androidx.cardview.widget.CardView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:layout_toRightOf="@+id/card_view55"
+            >
+
+            <TextView
+                android:id="@+id/Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:layout_marginRight="20dp"
+                android:text="hiertert dada5dasd dad detert"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2017"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:id="@+id/year"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="rpwierpweoirpwiepgdf fdgfg   gfdgd fg   gdfgdfg fdg d dfd dfgdf  dsfsdfdsf fsdfsdfdsf fsdffsd  fsdfriewpriw sfsfsdfdsfsdfsdfsdfsdfepr"
+                    android:textSize="10sp"
+                    android:ellipsize="end"
+                    android:maxLines="4"
+                    android:layout_weight="6"
+                    android:textColor="@color/white"
+                    android:id="@+id/overview"
+                    />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
