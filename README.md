@@ -10,3 +10,5 @@ Coto Movies & TV Show offering you a free no subscription needed and a great way
 
 # Screenshots
 
+![GitHub Logo](/app/Screenshots/sn1.png) ![GitHub Logo](/app/Screenshots/sn2.png)
+![GitHub Logo](/app/Screenshots/sn2.png) ![GitHub Logo](/app/Screenshots/sn3.png)
