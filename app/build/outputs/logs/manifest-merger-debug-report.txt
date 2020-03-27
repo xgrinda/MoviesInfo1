@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\245c52defb6f7340bcda15c77553a28b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.halilozercan:BetterVideoPlayer:1.1.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\661e5ec1e678266fcb1435a083188c2f\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\c16fc7ab81fc838357d932e08f277c54\AndroidManifest.xml:17:1-24:12
@@ -66,27 +66,27 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\XgRiNdA\.gradle
 MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\7d789a57eab8c8f6b4b6b2420f262e9e\AndroidManifest.xml:22:1-33:12
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\2960ec3110695b082ee8d72632adab5c\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.exoplayer:exoplayer:r1.5.9] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\fa25b53b6150ce6a2e1ac1009f9e9b09\AndroidManifest.xml:17:1-28:12
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:4:5-38
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\1c24048877970aa2410721893630657a\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\1c24048877970aa2410721893630657a\AndroidManifest.xml:23:5-67
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\11c95c3583a7fe5839e41106e61ae146\AndroidManifest.xml:9:5-67
@@ -102,25 +102,25 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\XgRiNdA\.gradle
 MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\7d789a57eab8c8f6b4b6b2420f262e9e\AndroidManifest.xml:29:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\7d789a57eab8c8f6b4b6b2420f262e9e\AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\1c24048877970aa2410721893630657a\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\1c24048877970aa2410721893630657a\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:8:5-81
 MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\0d3a8b4b94981e02463ea178badcd74a\AndroidManifest.xml:12:5-81
 MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\0d3a8b4b94981e02463ea178badcd74a\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:9:5-65
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:9:22-63
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:9:22-63
 application
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:12:5-50:19
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:12:5-50:19
 MERGED from [com.github.halilozercan:BetterVideoPlayer:1.1.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\661e5ec1e678266fcb1435a083188c2f\AndroidManifest.xml:12:5-20
 MERGED from [com.github.halilozercan:BetterVideoPlayer:1.1.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\661e5ec1e678266fcb1435a083188c2f\AndroidManifest.xml:12:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\c16fc7ab81fc838357d932e08f277c54\AndroidManifest.xml:22:5-20
@@ -166,77 +166,77 @@ MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\XgRi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\47eacc7a964b00be112205ce2e33c397\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:18:9-40
 activity#com.mzapps.app.cotoflix.SplashActivity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:20:9-27:20
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:20:9-27:20
 	android:theme
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:22:13-47
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:22:13-47
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:21:13-43
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:21:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:23:13-26:29
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:24:17-68
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:24:17-68
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:25:17-76
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.mzapps.app.cotoflix.MainActivity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:29:9-32:20
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:29:9-32:20
 	android:screenOrientation
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:31:13-49
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:31:13-49
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:30:13-64
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:30:13-64
 activity#com.mzapps.app.cotoflix.Activitys.MoreActivity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:33:9-35:80
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:33:9-35:80
 	android:parentActivityName
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:35:13-78
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:35:13-78
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:34:13-74
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:34:13-74
 activity#com.mzapps.app.cotoflix.Activitys.DetailsMovie_Activity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:36:9-38:80
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:36:9-38:80
 	android:parentActivityName
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:38:13-78
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:38:13-78
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:37:13-83
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:37:13-83
 activity#com.mzapps.app.cotoflix.Activitys.DetailsTV_Activity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:39:9-41:80
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:39:9-41:80
 	android:parentActivityName
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:41:13-78
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:41:13-78
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:40:13-80
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:40:13-80
 activity#com.mzapps.app.cotoflix.Activitys.SearchActivity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:42:9-44:80
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:42:9-44:80
 	android:parentActivityName
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:44:13-78
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:44:13-78
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:43:13-76
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:43:13-76
 activity#com.mzapps.app.cotoflix.Activitys.AboutActivity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:45:9-47:80
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:45:9-47:80
 	android:parentActivityName
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:47:13-78
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:47:13-78
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:46:13-75
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:46:13-75
 activity#com.mzapps.app.cotoflix.Activitys.ActorActivity
-ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:48:9-49:77
+ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:48:9-49:77
 	android:name
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:49:13-75
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:49:13-75
 uses-sdk
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\245c52defb6f7340bcda15c77553a28b\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\245c52defb6f7340bcda15c77553a28b\AndroidManifest.xml:20:5-43
 MERGED from [com.github.halilozercan:BetterVideoPlayer:1.1.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\661e5ec1e678266fcb1435a083188c2f\AndroidManifest.xml:8:5-10:41
@@ -361,18 +361,18 @@ MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\XgRi
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\2960ec3110695b082ee8d72632adab5c\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.exoplayer:exoplayer:r1.5.9] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\fa25b53b6150ce6a2e1ac1009f9e9b09\AndroidManifest.xml:24:5-26:41
 MERGED from [com.google.android.exoplayer:exoplayer:r1.5.9] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\fa25b53b6150ce6a2e1ac1009f9e9b09\AndroidManifest.xml:24:5-26:41
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\56445b7eb03503d1c27d897b4463c061\AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\1c24048877970aa2410721893630657a\AndroidManifest.xml:29:9-33:64
 	android:exported
@@ -400,4 +400,4 @@ ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\XgRiNdA\.gra
 	android:name
 		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\XgRiNdA\.gradle\caches\transforms-2\files-2.1\11c95c3583a7fe5839e41106e61ae146\AndroidManifest.xml:13:13-75
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\XgRiNdA\Desktop\MoviesInfo1\app\src\main\AndroidManifest.xml:2:1-52:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\XgRiNdA\Desktop\MoviesGuide\app\src\main\AndroidManifest.xml:2:1-52:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
